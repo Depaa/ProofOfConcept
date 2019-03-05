@@ -4,8 +4,9 @@ ProofOfConcept of MegAlexa project
 How to run tests
 
 - Clone the repository
-- Build
-- Run
+- Open project with Android Studio
+- Gradle will download automatically dipendencies
+- Build and the Run the project
 - Register/Login through Amazon
 - Create workflow (name must not be upper case)
 - Add some text-block
